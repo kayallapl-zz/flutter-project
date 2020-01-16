@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362020748229",
+    "firebase_url": "https://project-kayalla.firebaseio.com",
+    "project_id": "project-kayalla",
+    "storage_bucket": "project-kayalla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362020748229:android:d662d9481001213d9d29ac",
+        "android_client_info": {
+          "package_name": "com.kayalla.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362020748229-rfh87muajh2t1mj5kht924g8951rlc0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJjMChWpjWzK1ie5VYpEuvSGb3DXGKxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362020748229-rfh87muajh2t1mj5kht924g8951rlc0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
